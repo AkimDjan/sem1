@@ -1,0 +1,3 @@
+D:\c\cmake\bin\cmake.exe -E rm -f CMakeFiles\reg.dir/objects.a
+D:\c\mingw64\bin\ar.exe qc CMakeFiles\reg.dir/objects.a @CMakeFiles\reg.dir\objects1.rsp
+D:\c\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\reg.dir/objects.a -Wl,--no-whole-archive -o reg.exe -Wl,--out-implib,libreg.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\reg.dir\linkLibs.rsp

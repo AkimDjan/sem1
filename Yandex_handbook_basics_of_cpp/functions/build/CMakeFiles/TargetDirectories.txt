@@ -1,0 +1,3 @@
+D:/c/yandex handbook osnov c++/func/build/CMakeFiles/stupid_thing.dir
+D:/c/yandex handbook osnov c++/func/build/CMakeFiles/edit_cache.dir
+D:/c/yandex handbook osnov c++/func/build/CMakeFiles/rebuild_cache.dir

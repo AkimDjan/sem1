@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/c/prog/les12/coch_snowflake/build",
+  "command": "D:\\c\\mingw64\\bin\\g++.exe  @CMakeFiles/reg.dir/includes_CXX.rsp -g -o CMakeFiles\\reg.dir\\regular_polygons.cpp.obj -c D:\\c\\prog\\les12\\coch_snowflake\\regular_polygons.cpp",
+  "file": "D:/c/prog/les12/coch_snowflake/regular_polygons.cpp",
+  "output": "CMakeFiles/reg.dir/regular_polygons.cpp.obj"
+},
+{
+  "directory": "D:/c/prog/les12/coch_snowflake/build",
+  "command": "D:\\c\\mingw64\\bin\\g++.exe  @CMakeFiles/reg.dir/includes_CXX.rsp -g -o CMakeFiles\\reg.dir\\D_\\c\\fltk\\build\\vec\\vec2d.cpp.obj -c D:\\c\\fltk\\build\\vec\\vec2d.cpp",
+  "file": "D:/c/fltk/build/vec/vec2d.cpp",
+  "output": "CMakeFiles/reg.dir/D_/c/fltk/build/vec/vec2d.cpp.obj"
+},
+{
+  "directory": "D:/c/prog/les12/coch_snowflake/build",
+  "command": "D:\\c\\mingw64\\bin\\g++.exe  @CMakeFiles/reg.dir/includes_CXX.rsp -g -o CMakeFiles\\reg.dir\\D_\\c\\fltk\\build\\poly\\poly.cpp.obj -c D:\\c\\fltk\\build\\poly\\poly.cpp",
+  "file": "D:/c/fltk/build/poly/poly.cpp",
+  "output": "CMakeFiles/reg.dir/D_/c/fltk/build/poly/poly.cpp.obj"
+},
+{
+  "directory": "D:/c/prog/les12/coch_snowflake/build",
+  "command": "D:\\c\\mingw64\\bin\\g++.exe  @CMakeFiles/reg.dir/includes_CXX.rsp -g -o CMakeFiles\\reg.dir\\D_\\c\\fltk\\build\\Graph_lib\\Graph.cpp.obj -c D:\\c\\fltk\\build\\Graph_lib\\Graph.cpp",
+  "file": "D:/c/fltk/build/Graph_lib/Graph.cpp",
+  "output": "CMakeFiles/reg.dir/D_/c/fltk/build/Graph_lib/Graph.cpp.obj"
+},
+{
+  "directory": "D:/c/prog/les12/coch_snowflake/build",
+  "command": "D:\\c\\mingw64\\bin\\g++.exe  @CMakeFiles/reg.dir/includes_CXX.rsp -g -o CMakeFiles\\reg.dir\\D_\\c\\fltk\\build\\Graph_lib\\GUI.cpp.obj -c D:\\c\\fltk\\build\\Graph_lib\\GUI.cpp",
+  "file": "D:/c/fltk/build/Graph_lib/GUI.cpp",
+  "output": "CMakeFiles/reg.dir/D_/c/fltk/build/Graph_lib/GUI.cpp.obj"
+},
+{
+  "directory": "D:/c/prog/les12/coch_snowflake/build",
+  "command": "D:\\c\\mingw64\\bin\\g++.exe  @CMakeFiles/reg.dir/includes_CXX.rsp -g -o CMakeFiles\\reg.dir\\D_\\c\\fltk\\build\\Graph_lib\\Window.cpp.obj -c D:\\c\\fltk\\build\\Graph_lib\\Window.cpp",
+  "file": "D:/c/fltk/build/Graph_lib/Window.cpp",
+  "output": "CMakeFiles/reg.dir/D_/c/fltk/build/Graph_lib/Window.cpp.obj"
+}
+]

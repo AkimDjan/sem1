@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/c/yandex handbook osnov c++/func/build",
+  "command": "D:\\c\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\stupid_thing.dir\\1.cpp.obj -c \"D:\\c\\yandex handbook osnov c++\\func\\1.cpp\"",
+  "file": "D:/c/yandex handbook osnov c++/func/1.cpp",
+  "output": "CMakeFiles/stupid_thing.dir/1.cpp.obj"
+}
+]

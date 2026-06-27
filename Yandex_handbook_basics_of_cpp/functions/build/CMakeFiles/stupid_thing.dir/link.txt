@@ -1,0 +1,3 @@
+D:\c\cmake\bin\cmake.exe -E rm -f CMakeFiles\stupid_thing.dir/objects.a
+D:\c\mingw64\bin\ar.exe qc CMakeFiles\stupid_thing.dir/objects.a @CMakeFiles\stupid_thing.dir\objects1.rsp
+D:\c\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\stupid_thing.dir/objects.a -Wl,--no-whole-archive -o stupid_thing.exe -Wl,--out-implib,libstupid_thing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\stupid_thing.dir\linkLibs.rsp

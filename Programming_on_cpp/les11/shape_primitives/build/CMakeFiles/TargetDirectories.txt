@@ -1,0 +1,7 @@
+D:/c/prog/les11/shape_primitives/build/CMakeFiles/shape_primitives.dir
+D:/c/prog/les11/shape_primitives/build/CMakeFiles/edit_cache.dir
+D:/c/prog/les11/shape_primitives/build/CMakeFiles/rebuild_cache.dir
+D:/c/prog/les11/shape_primitives/build/CMakeFiles/list_install_components.dir
+D:/c/prog/les11/shape_primitives/build/CMakeFiles/install.dir
+D:/c/prog/les11/shape_primitives/build/CMakeFiles/install/local.dir
+D:/c/prog/les11/shape_primitives/build/CMakeFiles/install/strip.dir
