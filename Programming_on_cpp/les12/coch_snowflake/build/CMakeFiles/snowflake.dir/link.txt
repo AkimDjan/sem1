@@ -1,3 +1,0 @@
-D:\c\cmake\bin\cmake.exe -E rm -f CMakeFiles\snowflake.dir/objects.a
-D:\c\mingw64\bin\ar.exe qc CMakeFiles\snowflake.dir/objects.a @CMakeFiles\snowflake.dir\objects1.rsp
-D:\c\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\snowflake.dir/objects.a -Wl,--no-whole-archive -o snowflake.exe -Wl,--out-implib,libsnowflake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\snowflake.dir\linkLibs.rsp

@@ -1,3 +1,0 @@
-D:\c\cmake\bin\cmake.exe -E rm -f CMakeFiles\shape_primitives.dir/objects.a
-D:\c\mingw64\bin\ar.exe qc CMakeFiles\shape_primitives.dir/objects.a @CMakeFiles\shape_primitives.dir\objects1.rsp
-D:\c\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\shape_primitives.dir/objects.a -Wl,--no-whole-archive -o shape_primitives.exe -Wl,--out-implib,libshape_primitives.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\shape_primitives.dir\linkLibs.rsp
